@@ -1,0 +1,2 @@
+# skripsi
+administrasi domisili perusahaan
